@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guhen-axe or Gustavo
-- 👀 I’m interested in learn Java
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in learn Javascript
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Linkedin @guhen-axe
 # titulo 1
